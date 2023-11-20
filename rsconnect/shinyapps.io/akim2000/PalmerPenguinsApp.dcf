@@ -1,0 +1,12 @@
+name: PalmerPenguinsApp
+title: PalmerPenguinsApp
+username: akim2000
+account: akim2000
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10585923
+bundleId: 7950583
+url: https://akim2000.shinyapps.io/PalmerPenguinsApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
