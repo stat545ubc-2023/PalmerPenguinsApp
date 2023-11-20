@@ -69,7 +69,7 @@ server <- function(input, output) {
   
   # Display data table with DT
   output$data_table <- renderDT({
-    datatable(selected_data(), options = list(pageLength = 10)) # You can adjust pageLength as needed
+    datatable(selected_data(), options = list(pageLength = 10)) # You can adjust page length as needed
   })
 }
 
