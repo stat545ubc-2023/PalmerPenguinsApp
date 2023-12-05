@@ -8,6 +8,7 @@ The app has several features to help users explore the dataset:
 - Selection of penguin species and variable to plot a histogram
   - Selection of faceted or combined histogram
   - Histogram has labels when you hover over a bar
+  - Option to zoom in on specific area of histogram
 - Slider to adjust bin width of histogram
 - Summary table of the selected data
 - Data table of the selected (filtered) data
