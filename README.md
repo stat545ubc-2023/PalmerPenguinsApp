@@ -21,4 +21,4 @@ Follow the link below to explore the app:
 ## Previous Versions
 Previous versions of the app can be found here:
 
-[PalmerPenguins App V1](https://akim2000.shinyapps.io/PalmerPenguinsApp/)
+[PalmerPenguins App V1](https://akim2000.shinyapps.io/PalmerPenguinsApp/) - This is the first release of the PalmerPenguins App. The corresponding app.R file and rsconnect folder can be found [here](https://github.com/stat545ubc-2023/PalmerPenguinsApp/tree/main/B3).
