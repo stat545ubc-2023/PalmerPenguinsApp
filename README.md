@@ -6,6 +6,8 @@ This app allows for the exploration and visualization of the `palmerpenguins` da
 The app has several features to help users explore the dataset:
 
 - Selection of penguin species and variable to plot a histogram
+  - Selection of faceted or combined histogram
+  - Histogram has labels when you hover over a bar
 - Slider to adjust bin width of histogram
 - Summary table of the selected data
 - Data table of the selected (filtered) data
@@ -13,4 +15,9 @@ The app has several features to help users explore the dataset:
 
 Follow the link below to explore the app:
 
-[PalmerPenguins App](https://akim2000.shinyapps.io/PalmerPenguinsApp/)
+[PalmerPenguins App V2](https://akim2000.shinyapps.io/PalmerPenguinsAppV2/)
+
+## Previous Versions
+Previous versions of the app can be found here:
+
+[PalmerPenguins App V1](https://akim2000.shinyapps.io/PalmerPenguinsApp/)
