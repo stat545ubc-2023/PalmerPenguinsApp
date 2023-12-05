@@ -5,7 +5,7 @@ account: akim2000
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 10725835
-bundleId: 8012258
+bundleId: 8012348
 url: https://akim2000.shinyapps.io/PalmerPenguinsAppV2/
 version: 1
 asMultiple: FALSE

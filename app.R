@@ -109,7 +109,7 @@ server <- function(input, output) {
       
       # NEW Feature 3: Interactive histogram where users can hover over the bars to see information of x-value, count, and species. Can also snip an area to zoom in on the part of the graph.
       # Allows users to get a detailed overview of the data presented in the histogram
-      ggplotly(p, tooltip = c("x", "count")) %>%
+      ggplotly(p, tooltip = c("x", "count", "species")) %>%
         config(displayModeBar = FALSE)  # Disable the toolbar
     } else {
       
