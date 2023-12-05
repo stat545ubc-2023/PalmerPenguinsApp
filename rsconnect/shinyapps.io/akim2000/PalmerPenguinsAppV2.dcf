@@ -1,0 +1,13 @@
+name: PalmerPenguinsAppV2
+title: PalmerPenguinsAppV2
+username: akim2000
+account: akim2000
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10725835
+bundleId: 8012258
+url: https://akim2000.shinyapps.io/PalmerPenguinsAppV2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|B3/app.R|README.md
